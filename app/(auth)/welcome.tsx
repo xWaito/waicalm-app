@@ -167,7 +167,7 @@ export default function Welcome() {
       </Animated.View>
     </View>
   );
-}
+  }
 
 const styles = StyleSheet.create({
   container: {
