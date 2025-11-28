@@ -36,7 +36,6 @@
         "android.permission.RECORD_AUDIO"
       ],
       "allowBackup": true,
-      "requestLegacyExternalStorage": true,
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false,
       "softwareKeyboardLayoutMode": "pan",
@@ -79,11 +78,12 @@
         {
           "cameraPermission": "Permite a WAI CALM acceder a tu cámara para escanear tu kit bio-inteligente."
         }
-      ]
+      ],
+      "expo-web-browser"
     ],
     "extra": {
       "eas": {
-        "projectId": "Waicalmpp"
+        "projectId": "bfecc095-0916-4ee1-9e7b-9167de2b58d2"
       }
     }
   }
